@@ -1,0 +1,2 @@
+#!/bin/basg
+echo $(( 2#$BINARY ))
